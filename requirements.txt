@@ -1,0 +1,14 @@
+faiss-cpu
+numpy
+unstructured
+uvicorn
+fastapi
+sentence_transformers
+langchain
+pydantic
+openai
+requests
+
+#pip install -U langchain_community
+
+
